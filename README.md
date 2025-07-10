@@ -33,16 +33,16 @@ Bu proje, kullanıcıya türlere göre film önerileri yapan basit bir **kural t
 
 What kind of movies? : Action
 
-Movie I can recommend: Gladiator
-Are you happy with my suggestion (yes/no)? : no
+Movie I can recommend: Gladiator      
+Are you happy with my suggestion (yes/no)? : no       
 
-Hmm, Then I suggest another type..
+Hmm, Then I suggest another type..    
 
-Movie I can recommend: The Mask
-Are you happy with my suggestion? : yes
+Movie I can recommend: The Mask    
+Are you happy with my suggestion? : yes    
 
-Great! Then these are the movies you might like :)
-...
+Great! Then these are the movies you might like :)     
+...   
 
 
 ---
