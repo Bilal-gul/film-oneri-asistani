@@ -26,7 +26,7 @@ Bu proje, kullanıcıya türlere göre film önerileri yapan basit bir **kural t
 
 ## 🎮 Konsol Örneği
 
------ Type of Movies -----
+----- Type of Movies -----  
 1- Action
 2- Comedy
 3- Science Fiction
